@@ -10,7 +10,7 @@
   // 界面文案（与正文内容分离）
   var UI = {
     zh: {
-      brand: '哄睡白噪音',
+      brand: 'BabySleep',
       privacy: '隐私政策',
       agreement: '用户协议',
       switchTo: 'EN',
@@ -19,7 +19,7 @@
       updated: '最后更新：2026-09-11'
     },
     en: {
-      brand: 'Baby Sleep',
+      brand: 'BabySleep',
       privacy: 'Privacy Policy',
       agreement: 'User Agreement',
       switchTo: '中文',

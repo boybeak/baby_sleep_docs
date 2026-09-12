@@ -1,10 +1,10 @@
 # User Agreement
 
-> App: Baby Sleep
+> App: BabySleep
 > Version: v1.0
 > Effective date: September 11, 2026
 
-Welcome to Baby Sleep. This Agreement is entered into between you and the **individual developer [Developer Name]** ("we", the operator of the App) regarding your use of the App. **Please read it carefully before your first use; by tapping "Agree and Continue" or continuing to use the App, you are deemed to have read, understood, and agreed to all terms of this Agreement. If you do not agree, please tap "Exit" and stop using the App.**
+Welcome to BabySleep. This Agreement is entered into between you and the **individual developer Gao Yunfei** ("we", the operator of the App) regarding your use of the App. **Please read it carefully before your first use; by tapping "Agree and Continue" or continuing to use the App, you are deemed to have read, understood, and agreed to all terms of this Agreement. If you do not agree, please tap "Exit" and stop using the App.**
 
 ## 1. Scope and acceptance
 
@@ -84,4 +84,4 @@ This Agreement is governed by the laws of the People's Republic of China. Any di
 
 ## 11. Contact us
 
-If you have any questions about this Agreement, please contact us at: **[Contact Email]**
+If you have any questions about this Agreement, please contact us at: **boybeak@gmail.com**

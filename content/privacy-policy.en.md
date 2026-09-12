@@ -1,10 +1,10 @@
 # Privacy Policy
 
-> App: Baby Sleep
+> App: BabySleep
 > Version: v1.0
 > Effective date: September 11, 2026
 
-This Privacy Policy explains how the **individual developer [Developer Name]** ("we", the developer and data controller of this App) handles information when you use Baby Sleep (the "App"). **Our design principle is to handle as little information as possible: the App requires no registration or sign-in, and we do not operate our own servers to store your personal data.**
+This Privacy Policy explains how the **individual developer Gao Yunfei** ("we", the developer and data controller of this App) handles information when you use BabySleep (the "App"). **Our design principle is to handle as little information as possible: the App requires no registration or sign-in, and we do not operate our own servers to store your personal data.**
 
 ## 1. Overview
 
@@ -85,4 +85,4 @@ Because we do not collect or upload your personal information, the relevant risk
 
 ## 10. Contact us
 
-If you have any questions or requests about this Policy, please contact us at: **[Contact Email]** (please also use this address for personal information protection matters).
+If you have any questions or requests about this Policy, please contact us at: **boybeak@gmail.com** (please also use this address for personal information protection matters).
